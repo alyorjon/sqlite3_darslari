@@ -1,0 +1,23 @@
+SQLite - bu mustaqil, serversiz, nol konfiguratsiya SQL ma'lumotlar bazasi mexanizmini amalga oshiradigan dasturiy ta'minot kutubxonasi. SQLite - bu dunyodagi eng keng tarqalgan SQL ma'lumotlar bazasi bilan ishlovchi dasturiy ta'minot.
+
+SQLITE buyruqlari:
+SQLITE SQL buyruqlarigi o'xshash hisoblanadi.
+
+
+CREATE  - YARATISH  - Ma'lumotlar bazasida yangi jadval, jadval ko'rinishi yoki boshqa ob'ekt yaratadi.
+
+ALTER - O'ZGARTIRISH - Mavjud ma'lumotlar bazasi ob'ektini, masalan, jadvalni o'zgartiradi.
+
+DROP - KESISH - Butun jadvalni, jadval ko'rinishini yoki ma'lumotlar bazasidagi boshqa ob'ektni o'chiradi.
+
+INSERT - JOYLASHTIRISH - Jadvalga ma'lumot kiritadi.
+
+UPDATE - YANGILASH - Jadvaldagi ma'lumotni o'zgartiradi.
+
+DELETE - O'chirish - Jadvaldan ma'lumotni o'chiradi.
+
+SELECT - BELGILASH - Jadvaldagi ma'lumotlarni belgilaydi.
+
+
+
+SQLITE barcha buyruqlari ; bilan tugaydi.
